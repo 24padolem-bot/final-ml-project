@@ -1,0 +1,16 @@
+# Large Python artifacts & raw data
+models/
+notebooks/
+data/raw/
+reports/
+*.joblib
+*.ipynb
+*.py
+*.md
+!README.md
+
+# Dependencies & Build Cache
+node_modules
+.git
+.gitignore
+.vercel

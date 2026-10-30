@@ -1,0 +1,7 @@
+{
+  "name": "Machine Health | Fleet Intelligence Suite",
+  "description": "Explainable Machine Learning System for Turbofan Engine Predictive Maintenance and Remaining Useful Life Estimation (NASA C-MAPSS FD001).",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
